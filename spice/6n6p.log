@@ -1,0 +1,66 @@
+Circuit: * C:\Users\Pawel\Desktop\projekt\spice\6n6p.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by R16.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03122
+vernier = 0.0078125
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 1.01988
+vernier = 0.00260417
+vernier = 0.00347222
+Gmin = 1.01305
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01085
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00871
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00715
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 1.0059
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Mon Feb 12 21:13:18 2024
+Total elapsed time: 0.855 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 20864
+traniter = 14512
+tranpoints = 4377
+accept = 3221
+rejected = 1156
+matrix size = 59
+fillins = 137
+solver = Normal
+Thread vector: 27.2/7.3[5] 3.8/1.9[5] 3.5/2.5[4] 0.2/0.8[1]  2592/500
+Matrix Compiler1: 11.48 KB object code size  2.0/1.0/[0.5]
+Matrix Compiler2: 8.50 KB object code size  0.9/1.1/[0.4]
+
